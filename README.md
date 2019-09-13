@@ -1,2 +1,3 @@
 # hello-word
-a e tham gia cho vui
+a e kiem tra xem thang Phu
+
